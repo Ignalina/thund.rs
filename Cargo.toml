@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "rust/thund_delta",
+]
+exclude = ["doc"]
+
+[profile.dev]
+split-debuginfo = "unpacked"

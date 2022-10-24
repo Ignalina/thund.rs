@@ -1,0 +1,17 @@
+[package]
+name = "thund-delta"
+version = "0.0.1"
+authors = ["Rickard Ernst Björn Lundin <rickard@ignalina.dk>"]
+homepage = "https://github.com/Ignalina/thund.rs"
+license = "MIT-0"
+keywords = ["alloy", "delta", "rust","bridge","arrow"]
+description = "Thund Delta functionality"
+edition = "2021"
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+arrowalloy = "0.0.3"
+arrow2 = "0.14.2"
+chrono = "0.4.22"
