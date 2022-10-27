@@ -12,6 +12,9 @@ edition = "2021"
 crate-type = ["dylib"]
 
 [dependencies]
+deltalake ="0.4.0"
+arrow2_convert ="0.3.2"
+arrow2_convert_derive = "0.3.2"
 arrowalloy = "0.0.3"
 arrow2 = "0.14.2"
 chrono = "0.4.22"
