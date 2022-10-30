@@ -1,7 +1,7 @@
 /*
 MIT No Attribution
 
-Copyright 2022 Rickard Ernst Björn Lundin
+Copyright 2022 Wilhelm Ågren & Rickard Ernst Björn Lundin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this
 software and associated documentation files (the "Software"), to deal in the Software
